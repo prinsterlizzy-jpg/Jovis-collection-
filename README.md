@@ -11,8 +11,8 @@ Features:
 
 Tech Stack:
 	•	Frontend: HTML, CSS, JavaScript
-	•	Backend (if applicable): Python Flask / Django / Node.js (update based on your project)
-	•	Database: SQLite / MySQL (if used)
+	•	Backend  Python Flask /Djagon
+	•	Database: SQLite / MySQL
 
 Purpose:
 This project is a portfolio-ready showcase for demonstrating web development skills, UI/UX design, and responsive e-commerce layouts.
